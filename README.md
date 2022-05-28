@@ -6,8 +6,9 @@ This application allows the end user to add events for each hour of the day from
 
 ## Screenshot
 
-![](assets/capture.JPG)
+![](assets/Capture.JPG)
 
 
 ## Link to deploy the application
 
+https://katyayini.github.io/colorsnew/
